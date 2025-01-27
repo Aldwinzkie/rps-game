@@ -51,3 +51,7 @@ button:active{
     margin-bottom: 2rem;
     font-weight: bolder;
 }   
+.notes{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2rem;
+}
